@@ -1,0 +1,15 @@
+argparse
+dill
+fire
+matplotlib
+numba
+psutil
+pycocotools
+requests
+scikit-image
+scipy
+slidingwindow
+tqdm
+tensorflow-gpu==1.15
+git+https://github.com/ppwwyyxx/tensorpack.git
+git+https://github.com/ildoonet/tf-pose-estimation.git#egg=tf-pose
