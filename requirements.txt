@@ -10,6 +10,6 @@ scikit-image
 scipy
 slidingwindow
 tqdm
-tensorflow-gpu==1.15
+tensorflow-gpu==2.3.1
 git+https://github.com/ppwwyyxx/tensorpack.git
 git+https://github.com/ildoonet/tf-pose-estimation.git#egg=tf-pose
